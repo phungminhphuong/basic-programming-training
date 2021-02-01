@@ -24,16 +24,8 @@ Nếu người dùng nhập mật khẩu mà ít hơn 4 ký tự thì hiển th�
 
 Nếu người dùng nhập username mà lớn hơn 10 ký tự thì hiển thị cho người dùng biết là bạn không được nhập lớn hơn 10 ký tự
 Nếu người dùng nhập mật khẩu mà lớn hơn 10 ký tự thì hiển thị chi người dùng biết là bạn không được phép nhập lớn hơn 10 ký tự.
-10.
-Viết chương trình, người dùng nhập một năm bất kỳ và in ra năm đó có phải là năm nhuận hay không.
 
-Ví dụ:
-
-Với year = 2016, đầu ra được in ra màn hình là 2016 is a leap year
-Vì 2016 chia hết cho 4 và không chia hết cho 100.
-Với year = 2015, đầu ra được in ra màn hình là 2015 is not a leap year
-Vì 2015 không chia hết cho 4.
-Đầu vào: 1 số nguyên year 
-Điều kiện tiền đề:
-1 ≤ n ≤ 9999
-Đầu ra: kiểm tra year có phải là năm nhuận hay không và in ra màn hình theo kiểu sau: 2016 is a leap year or 2015 is not a leap year
+10 .Tháng 1, 3, 5, 7, 8, 10, 12 sẽ có 31 ngày
+Tháng 4, 6, 9, 11 có 30 ngày
+Tháng 2 năm nhuận có 29 ngày, năm thường 28 ngày.
+Gợi ý: Năm nhuận là năm chia hết cho 4 và ko chia hết cho 100.
