@@ -1,0 +1,13 @@
+
+Cú pháp vòng lặp for trong C
+for (khởi tạo giá trị biến lặp; điều kiện lặp; cập nhật biến lặp)
+{
+    // các lệnh cần lặp
+}
+Hình ảnh dưới đây cho ta cú pháp của vòng lặp C và trình tự hoạt động của vòng lặp for.
+
+B1. Khởi tạo giá trị biến lặp, chỉ thực hiện 1 lần duy nhất
+B2. Kiểm tra điều kiện lặp, nếu điều kiện sai => Chuyển sang B5
+B3. Thực hiện nội dung lặp ở trong thân vòng lặp
+B4. Cập nhật giá trị biến lặp => Quay lại B2
+B5. Kết thúc vòng lặp
