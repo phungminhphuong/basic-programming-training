@@ -29,3 +29,13 @@ Nếu người dùng nhập mật khẩu mà lớn hơn 10 ký tự thì hiển 
 Tháng 4, 6, 9, 11 có 30 ngày
 Tháng 2 năm nhuận có 29 ngày, năm thường 28 ngày.
 Gợi ý: Năm nhuận là năm chia hết cho 4 và ko chia hết cho 100.
+11.
+Viết chương trình javascript để sắp xếp 4 số (a, b, c, d). Và in ra kết quả. 
+
+Ví dụ:
+Cho a = 3; b = 2; c= 9; d= -1; In ra "9,3,2,-1";
+Cho a = 3; b = 3; c= 8; d= -5; In ra "8,3,3,-5";
+Đầu vào: a, b, c, d
+Đầu ra: sắp xếp 4 số (a, b, c, d). Và in ra kết quả. 
+Gợi ý
+Cố gắng nhớ lại kiến thức if...else
