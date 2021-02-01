@@ -1,0 +1,17 @@
+Mệnh đề switch-case trong JavaScript được sử dụng để thực thi 1 hoặc nhiều khối lệnh từ nhiều điều kiện. 
+Nó gần giống với mệnh đề if-else, nhưng nó thuận tiện hơn vì nó có thể được sử dụng với số, ký tự, v.v.
+switch (bieu_thuc) {    
+    case gia_tri_1:
+        // Khối lệnh 1
+        break;  //tùy chọn
+    case gia_tri_2:    
+        // Khối lệnh 2
+        break;  //tùy chọn
+    ......    
+    case gia_tri_n:    
+        // Khối lệnh n
+        break;  //tùy chọn    
+    default:     
+        // Khối lệnh này được thực thi 
+        // nếu tất cả các điều kiện trên không thỏa mãn 
+    } 
